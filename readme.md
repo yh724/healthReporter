@@ -17,20 +17,20 @@
 ├─java
 │  └─com
 │      └─hhu
-│          │  Main.java   //主方法入口
+│          │  Main.java
 │          │
 │          ├─entity
-│          │      StudentInfo.java    //学生信息实体类，用于保存打卡信息
+│          │      StudentInfo.java
 │          │
 │          ├─timer
-│          │      HealthReporterTimer.java    //定时器类，用于每天执行一次打卡
+│          │      HealthReporterTimer.java
 │          │
 │          └─utils
-│                  EmailUtil.java         //邮件工具类，打卡成功后发送邮件
-│                  HealthReporterUtil.java    //打卡工具类，定义了打卡的相关方法
+│                  EmailUtil.java
+│                  HealthReporterUtil.java
 │
 └─resources
-        log4j.properties      //日志配置文件
+        log4j.properties
 
 ### 具体配置
 
