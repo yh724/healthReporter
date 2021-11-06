@@ -14,7 +14,7 @@
 
 ### 项目结构
 
-![pic.jpg](hr\pic.png)
+![pic.jpg](/hr/pic.png)
 
 ### 具体配置
 
