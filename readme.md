@@ -14,23 +14,7 @@
 
 ### 项目结构
 
-├─java
-│  └─com
-│      └─hhu
-│          │  Main.java
-│          │
-│          ├─entity
-│          │      StudentInfo.java
-│          │
-│          ├─timer
-│          │      HealthReporterTimer.java
-│          │
-│          └─utils
-│                  EmailUtil.java
-│                  HealthReporterUtil.java
-│
-└─resources
-        log4j.properties
+![pic.jpg](hr\pic.png)
 
 ### 具体配置
 
